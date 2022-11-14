@@ -1,0 +1,29 @@
+.btn {
+    width: 60px;
+    height: 50px;
+    background-color: rgb(57, 59, 59);
+    color: white;
+    border: 2px solid white;
+    font-size: medium;
+    width: 100px;
+    height: 70px;
+    font-size: large;
+    cursor: grab;
+
+}
+
+.btn1:hover {
+    color: red;
+    background-color: yellow;
+}
+
+.stop{
+    margin-top: auto;
+    margin-left: 450px;
+}
+
+.text {
+    font-size: 40px;
+    font-style: oblique;
+    color: rgb(16, 221, 33);
+}
